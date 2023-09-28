@@ -1,0 +1,7 @@
+Criaçao{
+CREATE PROCEDURE nome_procedure
+AS
+BEGIN
+    -- Corpo da procedure
+END;
+}
